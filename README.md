@@ -18,13 +18,13 @@
 
 <p>Clone the repository using the following command:</p>
 
-<pre><code>git clone https://github.com/Slender548/gmail-service-get-token-by-creds.git</code></pre>
+<pre><code>git clone https://github.com/EryyynIT/gmail-service-get-token-by-creds.git</code></pre>
 
 <h2>Navigate to the Project Directory</h2>
 
 <p>Change to the project directory:</p>
 
-<pre><code>cd https://github.com/Slender548/gmail-service-get-token-by-creds.git</code></pre>
+<pre><code>cd gmail-service-get-token-by-creds</code></pre>
 
 <h2>Set Up a Virtual Environment</h2>
 
